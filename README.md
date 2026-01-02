@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">ɪ'ᴍ Mahmoud Baligh !</p>
+<p align="left">I'ᴍ Mahmoud Baligh </p>
 
 ###
 
-<p align="left">Front-end developer | React | Next.js</p>
+<p align="left">AI & Data Science Engineer || Data Analytics || BI</p>
 
 ###
 
